@@ -1,0 +1,6 @@
+md = make directory
+cd = change directory
+git clone = copy repository
+git status = shows changes
+git commit = comment
+git push = place into git hub
