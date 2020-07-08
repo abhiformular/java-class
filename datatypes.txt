@@ -1,0 +1,4 @@
+data types
+int = these are numbers like age also thes numbers are whole numbers
+string = these are words and sentences like The quick brown fox jumps over the lazy dog
+double = are numbers with decimals like 1.23 or money
